@@ -1,0 +1,3 @@
+[submodule "giggle"]
+	path = giggle
+	url = https://github.com/netguy204/giggle
