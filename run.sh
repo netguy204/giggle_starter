@@ -1,3 +1,3 @@
 #!/bin/bash
 
-giggle/engine/sdlmain
+giggle/engine/sdlmain_nt.bin
